@@ -1,0 +1,11 @@
+[13-May-2018 17:37:22 Etc/GMT] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/manmohan/public_html/www.davim.xyz/aca_code.php on line 7
+[13-May-2018 17:45:33 Etc/GMT] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/manmohan/public_html/www.davim.xyz/result_by_name.php on line 75
+[13-May-2018 17:45:33 Etc/GMT] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/manmohan/public_html/www.davim.xyz/result_by_name.php on line 91
+[14-May-2018 09:31:33 Etc/GMT] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/manmohan/public_html/www.davim.xyz/aca_code.php on line 7
+[14-May-2018 10:35:40 Etc/GMT] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/manmohan/public_html/www.davim.xyz/aca_code.php on line 7
+[14-May-2018 10:52:59 Etc/GMT] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/manmohan/public_html/www.davim.xyz/result_by_name.php on line 75
+[14-May-2018 10:52:59 Etc/GMT] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/manmohan/public_html/www.davim.xyz/result_by_name.php on line 91
+[14-May-2018 10:53:33 Etc/GMT] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/manmohan/public_html/www.davim.xyz/result_by_roll.php on line 75
+[14-May-2018 10:53:33 Etc/GMT] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/manmohan/public_html/www.davim.xyz/result_by_roll.php on line 91
+[14-May-2018 10:55:07 Etc/GMT] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/manmohan/public_html/www.davim.xyz/scholarship.php on line 81
+[14-May-2018 10:55:10 Etc/GMT] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/manmohan/public_html/www.davim.xyz/scholarship.php on line 81
